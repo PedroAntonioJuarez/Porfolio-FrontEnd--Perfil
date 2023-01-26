@@ -57,8 +57,9 @@ button {
 
 .contenedor-texto {
     width: 50%;
-    text-align: center;
+    text-align: justify;
     align-items: center;
+    padding-right: 10px;
 }
 
 .contenedor-img {
