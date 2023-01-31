@@ -56,10 +56,10 @@ button {
 }
 
 .contenedor-texto {
-    width: 50%;
+    width: 70%;
     text-align: justify;
     align-items: center;
-    padding-right: 10px;
+    padding: 10px;
 }
 
 .contenedor-img {
