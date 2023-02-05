@@ -56,8 +56,8 @@ button {
 }
 
 .contenedor-texto {
-    width: 70%;
-    text-align: justify;
+    width: 50%;
+    text-align: center;
     align-items: center;
     padding: 10px;
 }
@@ -176,6 +176,13 @@ footer {
     .contenedor-img {
         width: 50%;
     }
+    .contenedor-texto {
+        width: 70%;
+        text-align: justify;
+        align-items: center;
+        padding: 10px;
+    }
+    
 
     .contenedor-logos {
         display: flex;
